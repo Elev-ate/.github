@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Logo / Header Graphic Placeholder -->
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/logo.png" alt="Elevate Edge Logo" width="120px" />
+  <img src="logo.png" alt="Elevate Edge Logo" width="200px" />
 
   <h1>Elevate Edge</h1>
   <p><strong>Web Development • Digital Solutions</strong></p>
